@@ -9,6 +9,18 @@ body{
   color: aliceblue;
 }
 
+h1{
+  font-weight: bolder;
+}
+
 .wrapper{
   height: 100vh;
+}
+
+.correct{
+  color: lawngreen;
+}
+
+.wrong{
+  color: firebrick;
 }
